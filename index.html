@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enquiry Root</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="heading-container">
+        <img src="https://saylaniwelfareusa.com/static/media/logo_saylaniwelfareusa.22bf709605809177256c.png" alt="Company Logo" class="logo">
+        <h1>
+            <span class="word" id="word1">SAYLANI</span>
+            <span class="word" id="word2">WELFARE</span>
+            <span class="word" id="word3">INTERNATIONAL</span>
+            <span class="word" id="word4">TRUST</span>
+        </h1>
+    </div>
+    <br>
+    <div class="container">
+        <h1 style="color: #1261A0">Enquiry Root</h1>
+        <label for="searchArea" style="font-weight: bold;">SEARCH AREA:</label>
+        <input type="text" id="searchArea" placeholder="TYPE AN AREA NAME..." onkeyup="searchArea()" style="font-weight: bold;">
+        <br><br>
+        <label for="areaSelect" style="font-weight: bold;">OR SELECT AREA:</label>
+        <select id="areaSelect" onchange="fetchOfficerData()">
+            <option value="" style="font-weight: bold;">Select an Area</option>
+        </select>
+        <div id="officerDetails"></div>
+    </div>
+    <script src="./app.js"></script>
+</body>
+</html>
