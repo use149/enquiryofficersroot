@@ -174,8 +174,8 @@ const officersData = {
             "MUSLIMABAD",
             "MANSEHRA CLY.",
             "GEEDAR CLY.",
-            "89 SECTOR",
-            "GULSHAN E HADEED"
+            "89 SECTOR"
+            
         ]
     },
 
@@ -240,8 +240,8 @@ const officersData = {
             "GULSHAN E HADEED"
         ]
     },
-    "AFTAB ALAM (31)": {
-        phone: "0311-2840049",
+    "ABU BAKAR (127)": {
+        phone: "0311-8108559",
         areas: [
             "KORANGI 1 ",
             "KORANGI 2",
@@ -569,8 +569,8 @@ function displayOfficerDetails(area) {
                     .join("");
 
                 const officerInfo = `
-                    <p><strong style="color: blue;">Officer Name:</strong> <span style="color: darkblue;">${officer}</span></p>
-                    <p><strong style="color: blue;">Contact:</strong> <span style="color: darkblue;">${details.phone}</span></p>
+                    <p><strong style="color: rgb(3, 33, 125);">OFFICER NAME :</strong> <span style="color: rgb(3, 33, 125);">${officer}</span></p>
+                    <p><strong style="color: rgb(3, 33, 125);">CONTACT:</strong> <span style="color: rgb(3, 33, 125);">${details.phone}</span></p>
                     <div class="areas-container">${areasHTML}</div>
                 `;
                 officerDetails.innerHTML = officerInfo;
