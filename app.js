@@ -241,8 +241,8 @@ const officersData = {
             "GULSHAN E HADEED"
         ]
     },
-    "ABU BAKAR (127)": {
-        phone: "0311-8108559",
+    "MALIK NAVEED (161)": {
+        phone: "03162931685",
         areas: [
             "KORANGI 1",
             "KORANGI 2",
@@ -272,8 +272,8 @@ const officersData = {
          "NATA KHAN"
     ]
 },
-"UMAIS RAZA (163)": {
-    "phone": "03156499404",
+"Abu Bakar siddiqi (127)": {
+    "phone": "0311-8108559",
     "areas": [
       
         " CHONGI",
@@ -296,8 +296,8 @@ const officersData = {
     ]
 }
 ,
-"QARI ADNAN (147)": {
-    "phone": "0315-2988032",
+"UMAIS (163)": {
+    "phone": "03156499404",
     "areas": [
         "TARIQ ROAD",
         "BAHADURABAD",
@@ -331,6 +331,19 @@ const officersData = {
 "WASEEM RAZA (53)": {
     "phone": "0316-2360800",
     "areas": [
+        "BARA BORD",
+        "NAZIMABAD ",
+        "ALIB COLONY",
+    
+        "PAPOOSH",
+        " ORANGABAD",
+        "HASAN COLONY",
+        "GOLIMAR",
+        "HASRAT MOHANI COLONY",
+        "FIRDOOS COLONY",
+        " KHAMOSH COLONY",
+        "JAHAGEER ABAD",
+        "RIZWI SOCIETY",
         "MOOSA COLONY",
         "KARIMABAD",
         "MOKKA CHOK ",
@@ -338,7 +351,6 @@ const officersData = {
         "AEYSHA MANZIL",
         "WATER PAMP",
         "F.B AREA",
-         "F.B AREA",
         "AZIZ ABAD 4",
         "MUJAHID COLONY",
         "KHDOO GHOT"
@@ -348,6 +360,10 @@ const officersData = {
 "FAIZAN RAZA (110)": {
     "phone": "0310-2206090",
     "areas": [
+        "LIAQTABAD 1",
+        "LIAQTABAD 2",
+        "LIAQTABAD 3",
+        "LIAQTABAD 4",
         "LIAQUTABAD 5",
         "LIAQUTABAD 6",
         "LIAQUTABAD 7",
@@ -355,30 +371,6 @@ const officersData = {
         "LIAQUTABAD 9",
         "LIAQUTABAD 10",
         "AZAM NAGAR ",
-        "PELI GHOTI",
-        "SINDHI HOTEL",
-        "ANGHRA GOTH",
-        "ESSA NAGRI",
-        "AZIABAD 1, 2, 3",
-          "BHONGORIA",
-            "BANHANI COLONY",
-              "F.C AREA"
-    ]
-}
-,
-"KASHIF NOORI (95)": {
-    "phone": "0317-2849944",
-    "areas": [
-        "GOLIMAR",
-        "HASRAT MOHANI COLONY",
-        "FIRDOOS COLONY",
-        " KHAMOSH COLONY",
-        "JAHAGEER ABAD",
-        "RIZWI SOCIETY",
-        "LIAQTABAD 1",
-        "LIAQTABAD 2",
-        "LIAQTABAD 3",
-        "LIAQTABAD 4",
         "HAJI MURAD GOTH",
         "REKSAR",
         " PAK COLONY",
@@ -386,15 +378,18 @@ const officersData = {
         "USMANIA COLONY ",
         "WAHEEDA BAD",
         "JAHANGIRABAD",
-        "BARA BORD",
-        "NAZIMABAD ",
-        "ALIB COLONY",
+        "PELI GHOTI",
+        "SINDHI HOTEL",
+        "ANGHRA GOTH",
+        "ESSA NAGRI",
         " DAKHNA ",
-        "PAPOOSH",
-        " ORANGABAD",
-        "HASAN COLONY"
+          "BHONGORIA",
+            "BANHANI COLONY",
+              "F.C AREA"
     ]
-},
+}
+,
+
 
 
 "FAYYAZ AHMAD(94)": {
@@ -502,8 +497,8 @@ const officersData = {
         "KHAIRABAD"
     ]
 },
-"TARIQ MADANI (170)": {
-    "phone": "0306-3005461",
+"iMRAN MADANI (138)": {
+    "phone": "03172767599",
     "areas": [
        "CIVIL",
        "LYARI",
@@ -514,8 +509,6 @@ const officersData = {
        "AZEEM PLAZA",
        "GARDEN",
        "SOLDIER BAZAR"
-
-
 
     ]
 }
