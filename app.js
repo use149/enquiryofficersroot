@@ -9,13 +9,13 @@ const officersData = {
             "BANARUS",
             "FRONTIER CLY",
             "METROVILL",
-            "HANIFA BAD ",
+            "HANIFA BAD",
              "FAREED COLONY",
             "NISHAN HYDER",
             "HASHMI COLONY",
             "RABI CLY",
-            " URDU CHOCK",
-            "KUNWARI CLY ",
+            "URDU CHOCK",
+            "KUNWARI CLY",
             "MUHAJIR CHOWK 10"
         ]
     },
@@ -42,13 +42,13 @@ const officersData = {
             "ZIA COLONY",
             " HARYANA CLY",
             "BISMILLAH CLY",
-            "FAQEER CLY ",
+            "FAQEER CLY",
             " SADAF COLONY",
             "MADINA CLY",
             "ITTIFAQ CLY",
             "MOMINABAD",
             " ORANGI SEC 4",
-            "ORANGI SEC 11 ",
+            "ORANGI SEC 11",
             "BIJLI NAGAR",
             "MALIK CHOwk"
         ]
@@ -57,11 +57,11 @@ const officersData = {
         phone: "03122862484",
         areas: [
             "ORANGI TOWN",
-            "ORANGI SEC 01 ",
-            "ORANGI SEC 8 ",
+            "ORANGI SEC 01",
+            "ORANGI SEC 8",
             "ORANGI SEC  7A",
             "ISLAMIA CLY",
-            "QASBA ",
+            "QASBA",
             "MUSLIMABAD",
             "ORANGI sec 12",
             "ORANGI sec 5",
@@ -146,17 +146,17 @@ const officersData = {
     "WAQAS SHAREEF (136)": {
         phone: "0312-1020163",
         areas: [
-            "NEW KARACHI ",
-            "AYUB GOTH ",
+            "NEW KARACHI",
+            "AYUB GOTH",
             "NOOR MUHAMMAD GOTH",
             "KHAMEESA GOTH",
             "NOOR KHAN GOTH",
-            "LASSI GOTH ",
+            "LASSI GOTH",
             " DASTAGEER",
-            "YAROO GOTH  ",
-            " KHALILABAD ",
+            "YAROO GOTH",
+            " KHALILABAD",
             "KOUSAR NIAZI",
-            "YOUSUF GOTH ",
+            "YOUSUF GOTH",
             "SINDHI HOTEL",
             
         ]
@@ -166,21 +166,22 @@ const officersData = {
         phone: "0319-0279867",
         areas: [
             "LANDHI 1",
-            "LANDHI 2",  "LANDHI 3",  "LANDHI 4","LANDHI 5",  "LANDHI 6",
+            "LANDHI 2", 
+             "LANDHI 3",  "LANDHI 4","LANDHI 5",  "LANDHI 6",
             "RERHI GOTH",
             "DAWOOD CHOWRANGI",
             "SHAIR PAO",
             "KALA PANI",
             "MUSLIMABAD",
-            "MANSEHRA CLY.",
-            "GEEDAR CLY.",
+            "MANSEHRA CLY",
+            "GEEDAR CLY",
             "89 SECTOR"
             
         ]
     },
 
-    "NOOR UDDIN(158)": {
-        phone: "0324-3268729",
+    "NOOR ALAM (2)": {
+        phone: "03219535167",
         areas: [
             "HAKSBAY",
             "CLIFTON",
@@ -204,7 +205,7 @@ const officersData = {
         areas: [
             "NEW KARACHI",
             "MUSLIM TOWN",
-            "UP MOR ",
+            "UP MOR",
             "LAL SHAHBAZ QALANDER CLY",
             "MUHAMMADI GOTH",
             "NEW KARACHI SEC 5",
@@ -227,7 +228,7 @@ const officersData = {
             "MANZIL PUMP",
             "HASHIM GOTH",
             " RAZZAQ ABAD",
-            "CHOKANDI ",
+            "CHOKANDI",
             "MURGHI KHANA",
             "LASHARI GOTH",
             "QAZAFI TOWN",
@@ -243,15 +244,16 @@ const officersData = {
     "ABU BAKAR (127)": {
         phone: "0311-8108559",
         areas: [
-            "KORANGI 1 ",
+            "KORANGI 1",
             "KORANGI 2",
-            "KORANGI 3 ",
-            "KORANGI 3 1/2 ",
+            "KORANGI 3",
+            "KORANGI 3 1/2",
             "Y MARKET",
             "NASIR COLONY",
             "KORANGI  SEC 32 ",
-            "ZIA CLY ",
-            "KORANGI  SEC 33 "
+            "ZIA CLY",
+            "CROSSING",
+            "KORANGI  SEC 33"
         ]},
 
         "MUHAMMAD IMRAN(144)": {
@@ -310,12 +312,12 @@ const officersData = {
     ]
 }
 ,
-"NIAZ QADRI (168)": {
-    "phone": "0313-2530608",
+"MALIK NAVEED (161)": {
+    "phone": "03162931685",
     "areas": [
         "MEHMOOD ABAD",
         "CHANESAR GOTH",
-        "AKHTAR CLY ",
+        "AKHTAR CLY",
         "KALA PUL",
         "MANZOOR CLY",
         "DEFENCE",
@@ -337,7 +339,7 @@ const officersData = {
         "WATER PAMP",
         "F.B AREA",
          "F.B AREA",
-        "AZIZ ABAD 4..",
+        "AZIZ ABAD 4",
         "MUJAHID COLONY",
         "KHDOO GHOT"
     ]
@@ -404,7 +406,7 @@ const officersData = {
         "F AREA / C AREA / R AREA",
         " CHKRA GOTH",
         "NORANI BASTI",
-        "KORANGI 4 ",
+        "KORANGI 4",
          "KORANGI 5",
           "KORANGI 6"
     ]
@@ -429,13 +431,13 @@ const officersData = {
 "ABDUL JABBAR (148)": {
     "phone": "0335-2840895",
     "areas": [
-        "NORTH KARACHI ",
+        "NORTH KARACHI",
         "5A1-5A4 / 5B1-5B4 / 5C1-5C4",
         "7A-7B-7C-7D1-7D4",
-        "11 A-B-C ",
+        "11 A-B-C",
         " AJMER NAGRI",
         " NUSRAT BHUTTO",
-        "SHAHNAWAZ BHUTO CLY ",
+        "SHAHNAWAZ BHUTO CLY",
         "MIAN WALI COLONY",
         "NOOR MUHAMMAD GOTH",
         "KHALILABAD",
@@ -468,7 +470,7 @@ const officersData = {
         "SECTOR 4A-B-C-D",
         "SECTOR 7A-B-C-D",
         "SEC 10-11",
-        "ABDULLAH MOR ",
+        "ABDULLAH MOR",
         "ROZI GOTH",
         "SAIRA BB GOTH",
         "ABBASI GOTH",
@@ -495,9 +497,9 @@ const officersData = {
         "ORANGI 15A-15D / SHAH FAISAL",
         " SHAH FAISAL",
         "ORANGE SEC 7A",
-        "ORANGE SEC 01 ",
+        "ORANGE SEC 01",
         " NEW L BLOCK",
-        "KHAIRABAD "
+        "KHAIRABAD"
     ]
 },
 "TARIQ MADANI (170)": {
