@@ -180,6 +180,22 @@ const officersData = {
         ]
     },
 
+
+    "MALIK NAVEED (161)": {
+        phone: "03162931685",
+        areas: [
+            "KORANGI 1",
+            "KORANGI 2",
+            "KORANGI 3",
+            "KORANGI 31/2",
+            "Y MARKET",
+            "NASIR COLONY",
+            "KORANGI SEC 32 ",
+            "ZIA CLY",
+            "CROSSING",
+            "KORANGI  SEC 33"
+        ]
+    },
     "NOOR ALAM (2)": {
         phone: "03219535167",
         areas: [
@@ -241,20 +257,8 @@ const officersData = {
             "GULSHAN E HADEED"
         ]
     },
-    "MALIK NAVEED (161)": {
-        phone: "03162931685",
-        areas: [
-            "KORANGI 1",
-            "KORANGI 2",
-            "KORANGI 3",
-            "KORANGI 3 1/2",
-            "Y MARKET",
-            "NASIR COLONY",
-            "KORANGI  SEC 32 ",
-            "ZIA CLY",
-            "CROSSING",
-            "KORANGI  SEC 33"
-        ]},
+
+  
 
         "MUHAMMAD IMRAN(144)": {
     "phone": "0346-7865838",
