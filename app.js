@@ -316,7 +316,7 @@ const officersData = {
     ]
 }
 ,
-"MALIK NAVEED (161)": {
+"NAVEED (161)": {
     "phone": "03162931685",
     "areas": [
         "MEHMOOD ABAD",
