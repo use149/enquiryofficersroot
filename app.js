@@ -35,6 +35,21 @@ const officersData = {
                 "FATIMA DREEM CITY",
             ]
         },
+        
+        "Mehtab (162)": {
+            phone: "0308-3659822",
+            areas: [
+                "MALIR15 ",
+                "MURGHI KHANA",
+                "BAKRA PEERI",
+                "RAILWAY CLY",
+                "JAM GOTH",
+                "SOMAR GOTH",
+                "DARSANO CHANNA",
+                "MEMON GOTH",
+                "FATIMA DREEM CITY",
+            ]
+        },
     "GHULAM MUSTAFA (150)": {
         phone: "0312-2595065",
         areas: [
@@ -71,11 +86,34 @@ const officersData = {
             "MUSLIM NAGAR"
         ]
     },
-    "TALHA(106)": {
-        phone: "03160021113",
+    "YASIR NIAZI (132)": {
+        phone: "0313-2183964",
         areas: [
             "ORANGI TOWN",
             "THORANI GOTH",
+            "SHAH WALI ULLAH NAGAR",
+            "YAQOOB ABAD",
+            "KHAIRABAD",
+            "L BLOCK",
+            "GULSHAN BIHAR ",
+            "ORANGI SEC 16",
+            "GULSHAN E ZIA",
+            " ORANGI11 1/2",
+            "MUHAJIR CHOWK",
+            "ALTAF NAGAR",
+            "DHABAY G",
+            "MANSOOR NAGAR"
+        ]
+    },
+    "HASSHAM RAZA  (66)": {
+        phone: "0300-2235565",
+        areas: [
+            "ORANGI TOWN",
+            "THORANI GOTH",
+            "SHAH WALI ULLAH NAGAR",
+            "YAQOOB ABAD",
+            "KHAIRABAD",
+            "L BLOCK",
             "GULSHAN BIHAR ",
             "ORANGI SEC 16",
             "GULSHAN E ZIA",
@@ -104,8 +142,47 @@ const officersData = {
             "GULSHAN E MAZDOOR",
         ]
     },
+    "TARIQ MADANI(170)": {
+        phone: "0306-3005461",
+        areas: [
+            "BALDIA TOWN",
+            "SAJJAN GOTH",
+            "BALDIA 1",
+            "BALDIA 2",
+            "BALDIA 3",
+            "BALDIA 4",
+            "BALDIA 5",
+            "BALDIA 6",
+            "BALDIA 7",
+            "BALDIA 8",
+            "RASHEEDA ABAD",
+            "LEABOUR SQUIER",
+            "GULSHAN E MAZDOOR",
+        ]
+    },
     "NAQASH (151)": {
         phone: "0306-2087310",
+        areas: [
+
+            "MUHAJIR CAMP",
+            "GULSHAN E GHAZI",
+            "BALDIA 9",
+            "BALDIA 10",
+            "BALDIA 11",
+            "BALDIA 12",
+            "BALDIA 13",
+            "BALDIA 14",
+
+            "HUB CHOWKI",
+            "YOUSUF GOTH",
+            "MUWACH GOTH",
+            "NEVEL COLONY",
+            "NAWAB COLONY",
+            "QAIM KHANI"
+        ]
+    },
+    "TARIQ MADANI (170)": {
+        phone: "0306-3005461",
         areas: [
 
             "MUHAJIR CAMP",
@@ -161,6 +238,24 @@ const officersData = {
             
         ]
     },
+    "ADNAN MADANI (33)": {
+        phone: "0313-3379671",
+        areas: [
+            "NEW KARACHI",
+            "AYUB GOTH",
+            "NOOR MUHAMMAD GOTH",
+            "KHAMEESA GOTH",
+            "NOOR KHAN GOTH",
+            "LASSI GOTH",
+            " DASTAGEER",
+            "YAROO GOTH",
+            " KHALILABAD",
+            "KOUSAR NIAZI",
+            "YOUSUF GOTH",
+            "SINDHI HOTEL",
+            
+        ]
+    },
  
     "DANISH RAZA (92)": {
         phone: "0319-0279867",
@@ -180,9 +275,8 @@ const officersData = {
         ]
     },
 
-
-    "MALIK NAVEED (161)": {
-        phone: "03162931685",
+    "ABU BAKAR(127)": {
+        phone: "0311-8108559",
         areas: [
             "KORANGI 1",
             "KORANGI 2",
@@ -190,12 +284,15 @@ const officersData = {
             "KORANGI 31/2",
             "Y MARKET",
             "NASIR COLONY",
-            "KORANGI SEC 32 ",
+           "ALLAH WALA TOWN",
             "ZIA CLY",
-            "CROSSING",
-            "KORANGI  SEC 33"
+            "CROSSING"
+          
         ]
     },
+
+
+
     "NOOR ALAM (2)": {
         phone: "03219535167",
         areas: [
@@ -216,8 +313,28 @@ const officersData = {
         
         ]
     },
-    "Adnan Madani (33)": {
-        phone: "03133379671",
+    "JAVED HUSSAIN (119)": {
+        phone: "0334 3179523",
+        areas: [
+            "HAKSBAY",
+            "CLIFTON",
+            " DEHLI CLY",
+            "CITY RAILWAY",
+            "BABA ISLAND",
+            " PUNJAB CLY",
+            "BHIT JAZER",
+            "KEMARI",
+            "MACCHAR CLY",
+            "MANORA",
+            "HIJRAT COLONY",
+            "MARIPUR",
+            "SHAIRSHA",
+            "MUHAMMADI COLONY",
+        
+        ]
+    },
+    "DILSHAD RAZA (41)": {
+        phone: "0312-2395498",
         areas: [
             "NEW KARACHI",
             "MUSLIM TOWN",
@@ -276,13 +393,9 @@ const officersData = {
          "NATA KHAN"
     ]
 },
-"Abu Bakar siddiqi (127)": {
-    "phone": "0311-8108559",
+"UMIAS RAZA (163)": {
+    "phone": "03156499404",
     "areas": [
-      
-        " CHONGI",
-        "MARI GHOT",
-        " AYYOUB GHOT",
         "LASI GHOT ",
         "GULSHAN E MAYMAR",
         "SAIMA SOCIETY",
@@ -300,8 +413,8 @@ const officersData = {
     ]
 }
 ,
-"UMAIS (163)": {
-    "phone": "03156499404",
+"QARI ADNAN (147)": {
+    "phone": "0315-2988032",
     "areas": [
         "TARIQ ROAD",
         "BAHADURABAD",
@@ -316,8 +429,24 @@ const officersData = {
     ]
 }
 ,
-"NAVEED (161)": {
-    "phone": "03162931685",
+"ZAHID RAZA (8)": {
+    "phone": "0315-2988032",
+    "areas": [
+        "TARIQ ROAD",
+        "BAHADURABAD",
+        "LIAQUAT HOSPITAL",
+        " GULISTAN JOUHAR",
+        "NIPA",
+        "GULSHAN IQBAL ",
+    "DALMIA",
+        "MOSAMIAT",
+        "HASSAN SQAURE",
+        "ABUL HASAN ASFAHANI ROAD"
+    ]
+}
+,
+"GHULAM HUSSAIN (104)": {
+    "phone": "0345-9249044/03199279044",
     "areas": [
         "MEHMOOD ABAD",
         "CHANESAR GOTH",
@@ -336,11 +465,9 @@ const officersData = {
     "phone": "0316-2360800",
     "areas": [
         "BARA BORD",
-        "NAZIMABAD ",
-        "ALIB COLONY",
-    
+        "NAZIMABAD 1-4 ",
         "PAPOOSH",
-        " ORANGABAD",
+        "ORANGABAD",
         "HASAN COLONY",
         "GOLIMAR",
         "HASRAT MOHANI COLONY",
@@ -348,26 +475,22 @@ const officersData = {
         " KHAMOSH COLONY",
         "JAHAGEER ABAD",
         "RIZWI SOCIETY",
-        "MOOSA COLONY",
-        "KARIMABAD",
-        "MOKKA CHOK ",
-        "DASTAGEER",
-        "AEYSHA MANZIL",
-        "WATER PAMP",
-        "F.B AREA",
-        "AZIZ ABAD 4",
-        "MUJAHID COLONY",
-        "KHDOO GHOT"
+        "LIAQTABAD 1",
+        "LIAQTABAD 2",
+        "LIAQTABAD 3",
+        "LIAQTABAD 4",
+        "REKSAR",
+        "ASIF CLNY",
+        "PAK COLONY",
+        "TALIB COLONY",
+        "JHANDA CHOWK"
     ]
 }
 ,
 "FAIZAN RAZA (110)": {
     "phone": "0310-2206090",
     "areas": [
-        "LIAQTABAD 1",
-        "LIAQTABAD 2",
-        "LIAQTABAD 3",
-        "LIAQTABAD 4",
+   
         "LIAQUTABAD 5",
         "LIAQUTABAD 6",
         "LIAQUTABAD 7",
@@ -375,13 +498,40 @@ const officersData = {
         "LIAQUTABAD 9",
         "LIAQUTABAD 10",
         "AZAM NAGAR ",
-        "HAJI MURAD GOTH",
-        "REKSAR",
-        " PAK COLONY",
-        "ASIF COLONY ",
-        "USMANIA COLONY ",
-        "WAHEEDA BAD",
-        "JAHANGIRABAD",
+    " PAK COLONY",
+    "KARIMABAD",
+    "FB AREA",
+    "MOKKA CHOWK",
+    "AZIZ ABAD",
+    "HUSSAIN ABAD",
+        "PELI GHOTI",
+        "SINDHI HOTEL",
+        "ANGHRA GOTH",
+        "ESSA NAGRI",
+        " DAKHNA ",
+          "BHONGORIA",
+            "BANHANI COLONY",
+              "F.C AREA"
+    ]
+}
+,
+"ARSALAN  (3)": {
+    "phone": "0308-0026609",
+    "areas": [
+   
+        "LIAQUTABAD 5",
+        "LIAQUTABAD 6",
+        "LIAQUTABAD 7",
+        "LIAQUTABAD 8",
+        "LIAQUTABAD 9",
+        "LIAQUTABAD 10",
+        "AZAM NAGAR ",
+    " PAK COLONY",
+    "KARIMABAD",
+    "FB AREA",
+    "MOKKA CHOWK",
+    "AZIZ ABAD",
+    "HUSSAIN ABAD",
         "PELI GHOTI",
         "SINDHI HOTEL",
         "ANGHRA GOTH",
@@ -395,9 +545,8 @@ const officersData = {
 ,
 
 
-
-"FAYYAZ AHMAD(94)": {
-    "phone": "0312-8484990",
+"MALIK NAVEED (161)": {
+    "phone": "03162931685",
     "areas": [
         "IBRAHIM HYD",
         "COST GUARD",
@@ -427,8 +576,8 @@ const officersData = {
         "MARTIN QUARTER"
     ]
 },
-"ABDUL JABBAR (148)": {
-    "phone": "0335-2840895",
+"AKHTER SHAH  (3)": {
+    "phone": "03062855828",
     "areas": [
         "NORTH KARACHI",
         "5A1-5A4 / 5B1-5B4 / 5C1-5C4",
@@ -487,22 +636,52 @@ const officersData = {
     ]
 }
 ,
-"HASSHAM RAZA (66)": {
-    "phone": "0300-2235565",
+
+
+"ALI RAZA (3)": {
+    "phone": "03192864214",
     "areas": [
-        "SHAH WALI ULLAH NAGAR",
-        "YAQOOB ABAD",
-        "RAEES AMROHI",
-        "ORANGI 15A-15D / SHAH FAISAL",
-        " SHAH FAISAL",
-        "ORANGE SEC 7A",
-        "ORANGE SEC 01",
-        " NEW L BLOCK",
-        "KHAIRABAD"
+        "SURJANI ",
+        "SECTOR 5A-B-C-D-E-F",
+        "SECTOR 4A-B-C-D",
+        "SECTOR 7A-B-C-D",
+        "SEC 10-11",
+        "ABDULLAH MOR",
+        "ROZI GOTH",
+        "SAIRA BB GOTH",
+        "ABBASI GOTH",
+        "GULSHAN E NOOR",
+        "SIDDIQ GOTH",
+        "KHUDA KI BASTI",
+        " LYARI EXP",
+        "52 KI PATTI ",
+        "ALI MUHAMMAD GOTH",
+        "NASRI GOTH",
+        "SURJANI SEC L-1",
+        "SAIMA VILAS",
+        "WANGI GOTH",
+        "HAMDARD UNIVERSITY"
     ]
 },
-"iMRAN MADANI (138)": {
+
+"IMRAN MADANI (138)": {
     "phone": "03172767599",
+    "areas": [
+       "CIVIL",
+       "LYARI",
+       "GARI KHATA",
+       "RANCHOR LINE",
+       "RAMSAMI",
+       "SHOE MARKET",
+       "AZEEM PLAZA",
+       "GARDEN",
+       "SOLDIER BAZAR"
+
+    ]
+}
+,
+"ASLAM RAZA (4)": {
+    "phone": "03002927661",
     "areas": [
        "CIVIL",
        "LYARI",
